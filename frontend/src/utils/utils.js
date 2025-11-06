@@ -1,0 +1,1 @@
+export const BACKEND_URL = "http://{BACKEND_URL}/";

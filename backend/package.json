@@ -1,0 +1,28 @@
+{
+  "name": "service-hub",
+  "version": "1.0.0",
+  "description": "This project is created by Akash Prajapati, Using MERN Stack.",
+  "license": "ISC",
+  "author": "Akash Prajapati",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "bcryptjs": "^2.4.3",
+    "cloudinary": "^2.7.0",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "dotenv": "^16.6.1",
+    "express": "^5.1.0",
+    "express-fileupload": "^1.5.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.9.2",
+    "nodemon": "^3.1.9",
+    "stripe": "^17.7.0",
+    "zod": "^3.25.76"
+  }
+}
